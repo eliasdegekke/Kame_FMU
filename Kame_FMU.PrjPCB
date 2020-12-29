@@ -111,6 +111,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OTZQBXYK
 
 [Document5]
+DocumentPath=3_power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TJJZRZJM
+
+[Document6]
 DocumentPath=4_cpu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -127,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNHAROZB
 
-[Document6]
+[Document7]
 DocumentPath=5_spi_memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -144,7 +161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOPFEKYW
 
-[Document7]
+[Document8]
 DocumentPath=6_uart_esc_i2c.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWBCQVPN
 
-[Document8]
+[Document9]
 DocumentPath=7_can_rc_i2c_analog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -178,7 +195,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLCIOWMF
 
-[Document9]
+[Document10]
 DocumentPath=8_imu&debug_conn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -194,23 +211,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRKBFCSZ
-
-[Document10]
-DocumentPath=3_power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TJJZRZJM
 
 [Parameter1]
 Name=Project
